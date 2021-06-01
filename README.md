@@ -1,0 +1,2 @@
+# SampleTemplate
+Template dotnet Core
